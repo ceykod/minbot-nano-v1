@@ -39,4 +39,4 @@ This development board contains,
 
 ## License
 
-Minbot-Nano-v1 is published under the [GPLv3 license](https://github.com/ceykod/minbot-nano-v1/blob/master/LICENSE) by CRaD: CEYKOD Research & Development ([view](https://crad.ceykod.com)) as a free and open-source product.
+Minbot-Nano-v1 is published under the [GPLv3 license](https://github.com/ceykod/minbot-nano-v1/blob/master/LICENSE) by CRaD: CEYKOD Research & Development ([visit](https://crad.ceykod.com)) as a free and open-source product.
